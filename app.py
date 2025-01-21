@@ -3,7 +3,7 @@ import requests
 import base64
 import os
 
-ENDPOINT_URL = "https://5rotm3ugf5.execute-api.us-east-1.amazonaws.com"
+ENDPOINT_URL = "https://w6ij5jby9b.execute-api.us-east-1.amazonaws.com"
 
 st.title("Upload de documento")
 
@@ -48,5 +48,5 @@ if arquivo:
 
 
             
-WEBHOOK_URL = "https://webhook.site/3deff0bd-6692-4573-b2e3-d1c79d272a2e"
+WEBHOOK_URL = "https://webhook.site/a6053780-221d-4a61-94ed-dcbf37c6d7d2"
 st.page_link(WEBHOOK_URL, label="WEBHOOK")
