@@ -48,5 +48,5 @@ if arquivo:
 
 
             
-WEBHOOK_URL = "https://webhook.site/7e55c007-74f9-46e3-b82f-82f4805bc172"
+WEBHOOK_URL = "https://webhook.site/6a7da99c-f3e1-42b6-b145-75b8f9b855a3"
 st.page_link(WEBHOOK_URL, label="WEBHOOK")
